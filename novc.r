@@ -1,1 +1,1 @@
-print("This is from RStudio for project without version control.")
+print("This is from RStudio for project without version control")
